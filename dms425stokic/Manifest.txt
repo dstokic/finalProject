@@ -1,0 +1,2 @@
+Main-class: dms425.Enterprise
+Class-Path: ojdbc11.jar
